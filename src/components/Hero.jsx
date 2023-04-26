@@ -46,7 +46,7 @@ return (
 
     <div className="flex flex-row justify-between items-center w-full">
       <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
-        Check the <span className="text-gradient">authenticity</span> of your dress.
+        Check the <span className="text-gradient">authenticity</span> of your clothing.
       </h1>
     </div>
     <p className={`${styles.paragraph} max-w-[1920px] mt-5 font-semibold input-centered`}>
